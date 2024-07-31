@@ -103,6 +103,7 @@ footer a.cabecalho{
     footer  {
         
         display: flex;
+        border-radius: 100%;
         
         
     }
